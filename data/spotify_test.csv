@@ -1,0 +1,6 @@
+track_name,artist(s)_name,artist_count,released_year,released_month,released_day,in_spotify_playlists,streams,in_apple_playlists,in_apple_charts,in_deezer_playlists,in_deezer_charts,in_shazam_charts,bpm,key,mode,danceability_%,valence_%,energy_%,acousticness_%,instrumentalness_%,liveness_%,speechiness_%
+Viva La Vida,Coldplay,1,2008,1,1,33898,1592909789,233,0,"4,095",9,0.0,138,0.0,Minor,49,42,62,9,0,11,3
+Deck The Hall - Remastered 1999,Nat King Cole,1,1959,1,1,3299,127027715,65,39,41,0,0.0,107,0.0,Minor,69,96,36,81,0,8,4
+Hummingbird (Metro Boomin & James Blake),"James Blake, Metro Boomin",2,2023,6,2,277,39666245,1,20,5,0,1.0,81,0.0,Major,59,26,60,46,1,25,13
+X SI VOLVEMOS,"Karol G, Romeo Santos",2,2023,2,2,2127,266624541,45,80,53,8,4.0,178,0.0,Minor,79,58,78,34,0,11,25
+El Azul,"Junior H, Peso Pluma",2,2023,2,10,692,354495408,10,107,6,3,62.0,144,0.0,Minor,56,84,65,23,0,10,6
